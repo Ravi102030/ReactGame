@@ -1,0 +1,25 @@
+*{
+  margin: 0 auto ;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-container{
+ height: 710px;
+ width: 60%;
+ background: #4B79A1;
+ background: -webkit-linear-gradient(to right, #283E51, #4B79A1); 
+ background: linear-gradient(to right, #283E51, #4B79A1); 
+
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin: 0 auto;
+ position: relative;
+ 
+}
+
+.api{
+  position: absolute;
+  margin-top: 100%;
+}
