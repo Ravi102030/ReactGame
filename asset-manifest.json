@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactGame/static/css/main.da38420f.css",
-    "main.js": "/ReactGame/static/js/main.5aa4e13c.js",
+    "main.js": "/ReactGame/static/js/main.52b6326a.js",
     "static/js/787.28cb0dcd.chunk.js": "/ReactGame/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/ReactGame/index.html",
     "main.da38420f.css.map": "/ReactGame/static/css/main.da38420f.css.map",
-    "main.5aa4e13c.js.map": "/ReactGame/static/js/main.5aa4e13c.js.map",
+    "main.52b6326a.js.map": "/ReactGame/static/js/main.52b6326a.js.map",
     "787.28cb0dcd.chunk.js.map": "/ReactGame/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da38420f.css",
-    "static/js/main.5aa4e13c.js"
+    "static/js/main.52b6326a.js"
   ]
 }
